@@ -1,0 +1,1 @@
+SV Schübel – Redesign\n\nDie Website ist vollständig statisch. Für die Veröffentlichung index.html, favicon.svg und den Ordner assets gemeinsam in das Stammverzeichnis des Webservers hochladen.\n\nDas Anfrageformular öffnet beim Absenden das E-Mail-Programm des Besuchers mit einer vorbereiteten Nachricht an info@schuebel-kg.de.\n
